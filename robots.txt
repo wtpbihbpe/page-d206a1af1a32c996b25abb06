@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.blwwurc.cn/sitemap.xml
